@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>💻 Full-Stack Developer passionate about building scalable and secure web applications.<br><br>🚀 Skilled in Java, JavaScript, React, Node.js, Express.js, Laravel, and MongoDB.<br><br>🌱 Currently learning System Design, Cloud Technologies, and Backend Engineering.<br><br>🎯 Open to collaborating on impactful projects and continuously improving as a Software Engineer.
+## 👨‍💻 About Me<br><br>💻 Full-Stack Developer passionate about building scalable and secure web applications.<br><br>🚀 Skilled in Java, JavaScript, React, Node.js, Express.js, Django and MongoDB.<br><br>🌱 Currently learning System Design, Cloud Technologies, and Backend Engineering.<br><br>🎯 Open to collaborating on impactful projects and continuously improving as a Software Engineer.
 
 
 ## 🌐 Socials:
